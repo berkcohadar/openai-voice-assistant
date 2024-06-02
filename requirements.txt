@@ -1,0 +1,5 @@
+openai
+pyaudio
+wave
+typing_extensions
+python-dotenv
